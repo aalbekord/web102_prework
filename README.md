@@ -1,4 +1,4 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Sea Monster*
 
 Submitted by: **Amirsina Albekord**
 
@@ -34,7 +34,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Because I am still relatively new to developing with JavaScript, getting the filter and reduce methods down correctly took me a few more tries than I expected. It was also a great refresher for those topics as a result.
 
 ## License
 
