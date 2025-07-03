@@ -21,9 +21,7 @@ The following **optional** features are implemented:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented features:
-
-<img src='https://imgur.com/a/HUDR0sz' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+Here's a [walkthrough](https://imgur.com/a/HUDR0sz) of implemented features:
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
